@@ -26,16 +26,8 @@ Mỗi service có MongoDB riêng → cách ly dữ liệu.
 ---
 
 ## ⚙️ Kiến trúc hệ thống
-[ React Web App (FoodFast UI) ]
-↓
-[API Gateway]
-↓
-┌────────────────────────────┐
-│ User Service → user-mongo│
-│ Product Service→ product-mongo│
-│ Order Service → order-mongo │
-│ Payment Service→ payment-mongo│
-└────────────────────────────┘
+<img width="432" height="299" alt="image" src="https://github.com/user-attachments/assets/87dce520-8304-4006-879e-f7b749b140f3" />
+
 
 - **Frontend**: React + Vite (hiển thị UI, gọi API qua Gateway)  
 - **Backend**: Node.js + Express + MongoDB  
