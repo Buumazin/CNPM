@@ -11,32 +11,8 @@ Dự án gồm:
 ## 📂 Cấu trúc Project
 
 ### Frontend (React UI)
-foodfast-ui/
-│── Dockerfile
-│── package.json
-│── vite.config.js
-│── public/
-│── src/
-│ ├── main.jsx
-│ ├── App.jsx
-│ ├── api/
-│ │ ├── axiosClient.js
-│ │ ├── userApi.js
-│ │ ├── productApi.js
-│ │ ├── orderApi.js
-│ │ └── paymentApi.js
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ └── ProductCard.jsx
-│ ├── pages/
-│ │ ├── Home.jsx
-│ │ ├── Login.jsx
-│ │ ├── Register.jsx
-│ │ ├── Cart.jsx
-│ │ ├── Orders.jsx
-│ │ └── Payment.jsx
-│ └── store/
-│ └── cartStore.js (Zustand hoặc Redux)
+<img width="590" height="755" alt="image" src="https://github.com/user-attachments/assets/f0a1ca1a-d8f2-4a83-8051-3e7570a2bdd3" />
+
 
 
 ### Backend
